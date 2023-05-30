@@ -1,5 +1,7 @@
 Rencana Belajar:
 - Belajar REST API
+  * Konsep dasar API
+  * Konsep dasar REST API
 - Belajar GIT & GITHUB 
 - Belajar CodeIgniter (CI)
 - Belajar Bahasa Inggris
