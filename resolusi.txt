@@ -1,3 +1,5 @@
 Resolusi :
 - belajar github
 - belajar rest api
+- kolaborasi dengan programmer expert
+- belajar AI
