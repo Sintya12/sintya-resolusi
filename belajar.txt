@@ -3,5 +3,8 @@ Rencana Belajar:
   * Konsep dasar API
   * Konsep dasar REST API
 - Belajar GIT & GITHUB 
+  * Definisi GIT & GITHUB
+  * Sign up account GTHUB
+  * Cara Bekerja dengan GITHUB 
 - Belajar CodeIgniter (CI)
 - Belajar Bahasa Inggris
