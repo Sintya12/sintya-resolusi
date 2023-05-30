@@ -1,0 +1,3 @@
+Resolusi :
+- belajar github
+- belajar rest api
